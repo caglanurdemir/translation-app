@@ -1,5 +1,5 @@
 import './App.css';
-import InputContainer from './components/InputContainer';
+import { InputContainer } from './components';
 
 function App() {
   return (
